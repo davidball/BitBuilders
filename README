@@ -1,38 +1,38 @@
-h1. BitBuilders 
+# BitBuilders 
 An introductory programming class after school targeted at grades 3-6.
 
 We work in the language Processing (see processing.org) and are goal is to have kids familiar with the following concepts
 
-h2. Ideas
-language
-variables
-functions
-pixels
-Math
+## Ideas
+* language
+* variables
+* functions
+* pixels
+* Math
 
-h2. Order of operations
-logic
-and
-or
-nand
-nor
+## Order of operations
+* logic
+* and
+* or
+* nand
+* nor
 
-h2. Syntax of the language Processing
-;
-{}
-functions
-“Declaring” variables
-looping
-for
-while
-if-then-else
-Operators
-+
-*
-/
--
-+=
--=
-++
---
+## Syntax of the language Processing
+* ;
+* {}
+* functions
+* “Declaring” variables
+* looping
+* for
+* while
+* if-then-else
+### Operators
+* +
+* *
+* /
+* -
+* +=
+* -=
+* ++
+* --
 

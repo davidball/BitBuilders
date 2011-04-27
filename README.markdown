@@ -25,7 +25,8 @@ We work in the language Processing (see processing.org) and are goal is to have 
 * looping
 * for
 * while
-* if-then-else
+* if-then-else 
+
 ### Operators
 * +
 * *
